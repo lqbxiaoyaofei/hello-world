@@ -1,2 +1,4 @@
 # hello-world
-start
+Hi humen!
+
+i like money 
